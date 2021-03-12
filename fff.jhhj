@@ -1,0 +1,6 @@
+packageSprite.velocityY=2;
+packageSprite.visible=true;
+
+     packageSprite.x= packageBody.position.x 
+  packageSprite.y= packageBody.position.y 
+  
